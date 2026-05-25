@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills through hands-on projects in AI/ML, Web Development, and placement-focused problem solving.
+🔭 I’m currently working on improving my skills through hands-on projects in AI/ML, Web Development, and placement-focused problem solving./n
 👯 I’m looking to collaborate on AI/ML, Full-Stack, Open Source, and innovative student tech projects.
 🤝 I’m looking for help with advanced machine learning, deployment, and building real-world scalable applications. 
 🌱 I’m currently learning Machine Learning, React, Cloud, SQL, DevOps, and core Computer Science fundamentals for placements. 
