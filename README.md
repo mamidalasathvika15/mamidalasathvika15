@@ -1,9 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills through hands-on projects in AI/ML, Web Development, and placement-focused problem solving./n
-👯 I’m looking to collaborate on AI/ML, Full-Stack, Open Source, and innovative student tech projects.
-🤝 I’m looking for help with advanced machine learning, deployment, and building real-world scalable applications. 
-🌱 I’m currently learning Machine Learning, React, Cloud, SQL, DevOps, and core Computer Science fundamentals for placements. 
-💬 Ask me about Python, Machine Learning basics, NLP, Git/GitHub, Web Development, and tech projects. ⚡ Fun fact: I enjoy exploring startup ideas and turning creative concepts into practical solutions! 🚀
+🔭 I’m currently working on improving my skills through hands-on projects in AI/ML, Web Development, and placement-focused problem solving.<br>
+👯 I’m looking to collaborate on AI/ML, Full-Stack, Open Source, and innovative student tech projects.<br>
+🤝 I’m looking for help with advanced machine learning, deployment, and building real-world scalable applications.<br>
+🌱 I’m currently learning Machine Learning, React, Cloud, SQL, DevOps, and core Computer Science fundamentals for placements.<br>
+💬 Ask me about Python, Machine Learning basics, NLP, Git/GitHub, Web Development, and tech projects.<br>
+⚡ Fun fact: I enjoy exploring startup ideas and turning creative concepts into practical solutions! 🚀
 
 
 ## 🌐 Socials:
